@@ -11,6 +11,8 @@ This is a complete static lead generation website for Federal Land Properties by
 - `README.md` - Setup guide
 - `assets/federal-land-mid-year-sale.jpeg` - Promotional flyer used in the Mid Year Sale section
 - `assets/princess-binamira.jpeg` - Property specialist photo used in the specialist section
+- `assets/shy-martinez.jpeg` - Property specialist photo used in the specialist section
+- `assets/romenic-perillo.jpeg` - Property specialist photo used in the specialist section
 - Embedded video highlight - Uses Federal Land's official YouTube corporate video as a short credibility segment
 
 ## How To Connect The Form To Google Sheets
